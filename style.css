@@ -1,0 +1,18 @@
+.main{
+    width: 800px;
+    margin: 100px auto;
+    margin-bottom: 0;
+    padding: 50px 20px;
+    border: 1px solid #999;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-around;
+}
+
+.unit{
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    background-image: url('imgs/1.jpg');
+    background-size: 100% 100%;
+}
